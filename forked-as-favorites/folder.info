@@ -1,0 +1,3 @@
+Forked repos that are forked for the purpose of tracking the repo as a favorite should go here. Maybe we could make shortcuts to repos instead that git can recognise. Naming convention can be something like repo.link. 
+
+Repo links could allow projects to pull the source of any repo on demand and can be placed in any level of the repo. A module can be nothing more than a link to another repo.
